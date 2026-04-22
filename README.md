@@ -15,8 +15,6 @@
 - [BPF Filters](#-bpf-filters)
 - [Session Inspection](#-session-inspection)
 - [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
